@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Pattern Reconstruction of ICM Organoids
 description: Visualization of the ICM Organoids from the Paper "Recognition and reconstruction of cell differentiation patterns with deep learning"
