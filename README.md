@@ -1,4 +1,3 @@
-# Pattern Reconstruction
 
 ## This page is connected to the Paper "Recognition and reconstruction of cell differentiation patterns with deep learning" 
 
