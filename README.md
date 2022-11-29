@@ -1,5 +1,7 @@
+# Pattern Reconstruction of ICM Organoids
 
-## This page is connected to the Paper "Recognition and reconstruction of cell differentiation patterns with deep learning" 
+
+## Data to the Paper "Recognition and reconstruction of cell differentiation patterns with deep learning" 
 
 (DOI will follow as soon as possible)
 
